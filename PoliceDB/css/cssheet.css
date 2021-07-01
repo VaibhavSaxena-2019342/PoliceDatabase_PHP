@@ -1,0 +1,147 @@
+.navlink:hover
+{
+    background-color: darkslateblue;
+    color: white;
+}
+
+.navlink
+{
+    height: 100%;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    margin: 0px;
+}
+
+.navlinkactive
+{
+    color: black;
+    height: 100%;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 0px;
+}
+
+.navlinkactive:hover
+{
+    color: black;
+}
+
+.footer
+{
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    background-color: #44D9E8;
+    color: black;
+    width: 85%;
+    padding: 10px;
+    z-index: 1000;
+}
+
+.header
+{
+    position: fixed;
+    top: 0px;
+    text-align: center;
+    background-color: #44D9E8;
+    color: black;
+    width: 85%;
+    padding: 10px;
+    z-index: 1000;
+}
+
+.text-muted
+{
+    padding: 10px;
+    padding-left: 25px;
+}
+
+.jumbotron
+{
+    text-align: center;
+    padding: 150px;;
+}
+
+.dataa
+{
+    margin-left: 50px;
+}
+
+.btndef
+{
+    padding: 12px;
+    position: relative;
+    top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: black;
+    background-color: #44D9E8;
+    border-radius: 5px;
+}
+
+.btndef:hover
+{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(25, 0, 53);
+}
+
+.boxi
+{
+    background-color: rgb(60, 0, 128);
+    padding: 20px;
+    padding-top: 30px;
+}
+
+.welll
+{
+    position: fixed;
+    right: 130px;
+    margin-top: 100px;
+}
+
+.btndef2
+{
+    padding: 12px;
+    position: relative;
+    top: 30px;
+    padding-left: 15px;
+    margin:10px;
+    padding-right: 15px;
+    text-decoration: none;
+    background-color: rgb(25, 0, 53);
+    border-radius: 5px;
+    color: white;
+}
+
+.btndef2:hover
+{
+    text-decoration: none;
+    color: black;
+    background-color: #44D9E8;
+}
+
+.btndef3
+{
+    padding: 10px;
+    position: relative;
+    top: 30px;
+    padding-left: 15px;
+    margin:10px;
+    padding-right: 15px;
+    text-decoration: none;
+    background-color: red;
+    border-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+.btndef3:hover
+{
+    text-decoration: none;
+    background-color: maroon;
+}
